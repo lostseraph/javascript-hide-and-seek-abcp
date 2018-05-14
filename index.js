@@ -15,3 +15,6 @@ function deepestChild() {
   return test;
 }
 
+function increaseRankBy(n) {
+  
+}
